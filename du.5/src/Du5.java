@@ -17,6 +17,7 @@ public class Du5 {
 		//boolean TrueFalse= (boolean) basicNumber;  // cannot cast boolean from int//
 		char Character=(char) basicNumber;
 		System.out.println("In char : "+Character);
+		System.out.println("That's all !");
 
 	}
 
